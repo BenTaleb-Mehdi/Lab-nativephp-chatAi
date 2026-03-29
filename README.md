@@ -20,6 +20,27 @@ A technical laboratory demonstrating high-performance AI integration within a **
     * **Precision UI:** Sharp 1px borders and technical typography.
 * **Mobile Optimized:** Fully responsive layout designed specifically for Android WebView and Native windows.
 
+---
+
+## 📸 App Preview
+<p align="center">
+  <img src="images/img1.png" alt="Mehdi AI Interface" width="350">
+  <br>
+  <i>UI running on Android Emulator via NativePHP 3.0</i>
+</p>
+<p align="center">
+  <img src="images/img2.png" alt="Mehdi AI Interface" width="350">
+  <br>
+  <i>UI running on Android Emulator via NativePHP 3.0</i>
+</p>
+<p align="center">
+  <img src="images/img3.png" alt="Mehdi AI Interface" width="350">
+  <br>
+  <i>UI running on Android Emulator via NativePHP 3.0</i>
+</p>
+
+---
+
 ## 🚀 Installation & Local Setup
 
 ### 1. Clone the Repository
