@@ -40,7 +40,7 @@ return [
     */
 
     'app_id' => env('NATIVEPHP_APP_ID'),
-'icon' => resource_path('icon.ico'),
+    'icon' => resource_path('iconApp.png'),
     /*
     |--------------------------------------------------------------------------
     | Deeplink Scheme
